@@ -11,3 +11,13 @@ __pycache__/
 
 # Ignore VSCode workspace settings (optional)
 .vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Env and data files
+.env
+tts_reply_*.mp3
+output.wav
+
